@@ -23,7 +23,7 @@
 - 触控板和手势
 - 声音
 - 蓝牙连接
-- 无线网络
+- 无线网络 ([驱动地址](https://github.com/chris1111/Wireless-USB-Adapter-Clover))
 - 电池电量显示
 - 睡眠
 
