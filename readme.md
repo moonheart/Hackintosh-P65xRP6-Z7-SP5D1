@@ -32,3 +32,7 @@
 - HDMI 输出，因为连接在独显上，无法驱动
 - 隔空投送
 - 开机时有点爆音
+
+## 其他
+
+USB 网卡插在背后的 USB 口上，并通过[Hackintool](http://headsoft.com.au/download/mac/Hackintool.zip)修改为了内建, 否则会影响睡眠。
