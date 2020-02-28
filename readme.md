@@ -14,7 +14,7 @@
 | 显卡 | GeForce GTX 1060 (6 GB) (无法驱动)
 | 显示器   | BOEhydis HB156FH1-401 [15.6" LCD]  
 | 声卡     | Realtek ALC892                    
-| 网卡     | USB 网卡 TP-LINK TL-WN725 v3
+| 网卡     | DW1830
 
 ## 工作的部分
 
@@ -23,17 +23,14 @@
 - 触控板和手势
 - 声音
 - 蓝牙连接
-- 无线网络 ([驱动地址](https://github.com/chris1111/Wireless-USB-Adapter-Clover))
+- 无线网络
+- 隔空投送/隔空播放/接力
 - 电池电量显示
 - 睡眠
 
 ## 不工作部分
 
 - HDMI 输出，因为连接在独显上，无法驱动
-- 隔空投送
 - 开机时有点爆音
 - type-c 接口不支持热拔插
 
-## 其他
-
-USB 网卡插在背后的 USB 口上，并通过[Hackintool](http://headsoft.com.au/download/mac/Hackintool.zip)修改为了内建, 否则会影响睡眠。
